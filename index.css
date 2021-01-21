@@ -1,0 +1,13 @@
+canvas {
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+button {
+	background-color: rgb(45, 39, 39);
+    color: white;
+    size: 70px;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: black;
+    outline: none;
+}
